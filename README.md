@@ -1,0 +1,1 @@
+Proyecto de clusterización de datos, con la finalidad de determinar el número óptimo para categorizar y análizar comportamientos de los clientes y así generar estretgias contundentes que ayuden con el proposito del proyecto.
